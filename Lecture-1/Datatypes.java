@@ -23,3 +23,7 @@ class Datatype{
     String s="Hello";
     boolean d=true;
 }
+
+class Justification{
+    System.out.println("%-5s",str);//-Stands for Left justification
+    System.out.println("%03d",num);//For trailing zeroes}
